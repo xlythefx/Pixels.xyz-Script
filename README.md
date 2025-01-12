@@ -6,3 +6,6 @@ How to use?
 2. Go to console tab
 3. Paste the script
 4. Enjoy!
+
+
+GAME: https://play.pixels.xyz/
